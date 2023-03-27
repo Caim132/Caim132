@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: I don't use any social media except for Discord, where i'm really active
 
-- Social media:
 - Discord: Caim#5336
 - [Linkedin](https://www.linkedin.com/in/vinicius-abrantes-198640175/)
 
