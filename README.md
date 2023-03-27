@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there i'm Caim, nice to meet you 👋
+
+-🌱 I’m currently learning HTML and Python and i want to learn more about AI Systems
 
 <!--
 **Caim132/Caim132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
