@@ -5,7 +5,7 @@
 
 - Social media:
 - Discord: Caim#5336
-- [Linkedin] (https://www.linkedin.com/in/vinicius-abrantes-198640175/)
+- [Linkedin](https://www.linkedin.com/in/vinicius-abrantes-198640175/)
 
 <!--
 **Caim132/Caim132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
