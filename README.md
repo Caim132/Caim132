@@ -1,7 +1,11 @@
 ### Hi there i'm Caim, nice to meet you 👋
 
 -🌱 I’m currently learning HTML and Python and i want to learn more about AI Systems
+-⚡ Fun fact: at the moment i don't use any a social media except for discord, where i'm really active in it
 
+-Social media:
+-Discord: Caim#5336
+-Linkedin: https://www.linkedin.com/in/vinicius-abrantes-198640175/
 <!--
 **Caim132/Caim132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
