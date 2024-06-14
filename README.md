@@ -1,6 +1,6 @@
 ### Hi there i'm Caim, nice to meet you 👋
 
-- 🌱 I’m currently learning Python and HTML and i want to learn about AI Systems
+- 🌱 I’m currently learning Python, Java and JS and i want to learn about AI Systems
 - ⚡ Fun fact: I don't use any social media except for Discord, where i'm really active
 
 - Discord: ca1m_0
