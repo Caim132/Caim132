@@ -1,7 +1,7 @@
 ### Hi there i'm Caim, nice to meet you 👋
 
 - 🌱 I’m currently learning Python, Java and JS and i want to learn about AI Systems
-- ⚡ Fun fact: I don't use any social media except for Discord, where i'm really active
+- ⚡ Fun fact: I don't use any social media except for Discord, where i'm active
 
 - Discord: ca1m_0
 - [Linkedin](https://www.linkedin.com/in/vinicius-abrantes-198640175/)
